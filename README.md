@@ -1,2 +1,1 @@
-# QR-Code-Jaankari-Express
-In this project, I created QR code for my website Jaankari Express. 
+I built a QR code generate which on scanning takes you to a website called www.jaankariexpress.com. It is built using NodeJS and I have used two node packages to build this. First is inquirer.js and second is qr-image.
